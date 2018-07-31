@@ -1,5 +1,8 @@
 # proprietary files for peregrine
 
+# Sensors
+bin/akmd8963
+
 # Audio
 etc/Bluetooth_cal.acdb
 etc/General_cal.acdb
